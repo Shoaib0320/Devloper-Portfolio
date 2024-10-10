@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 
 import foodeiz from "./foodeiz.png";
 import foodwala from "./foodwala.PNG";
-import ECommerceWebsiteStore from "./e-commerce-website-store.PNG"
+import ecommerceWebsiteStore from "./e-commerce-website-store.PNG"
 
 export {
   logo,
@@ -65,5 +65,5 @@ export {
   tripguide,
   foodeiz,
   foodwala,
-  ECommerceWebsiteStore,
+  ecommerceWebsiteStore,
 };

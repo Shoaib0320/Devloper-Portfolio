@@ -26,7 +26,7 @@ import {
   threejs,
   foodeiz,
   foodwala,
-  ECommerceWebsiteStore,
+  ecommerceWebsiteStore,
 } from "../assets";
 
 export const navLinks = [
@@ -266,7 +266,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: ECommerceWebsiteStore,
+    image: ecommerceWebsiteStore,
     source_code_link: "https://github.com/Shoaib0320/E-Commerce-Website-For-React-",
   },
 
