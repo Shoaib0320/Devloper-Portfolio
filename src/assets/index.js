@@ -31,7 +31,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import foodeiz from "./foodeiz.png";
-import foodwala from "./foodwala.png";
+import foodwala from "./foodwala.PNG";
 import ECommerceWebsiteStore from "./e-commerce-website-store.png"
 
 export {
