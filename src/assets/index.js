@@ -31,8 +31,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import foodeiz from "./foodeiz.png";
-import foodwala from "./foodwala.PNG";
-import ecommerceWebsiteStore from "./e-commerce-website-store.PNG"
+import foodwala from "./foodwala.png";
+import ecommerceWebsiteStore from "./e-commerce-website-store.png"
 
 export {
   logo,
