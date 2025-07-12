@@ -27,6 +27,9 @@ import {
   foodeiz,
   foodwala,
   ecommerceWebsiteStore,
+  attariCollection,
+  clickShopStore,
+  nasirCollection,
 } from "../assets";
 
 export const navLinks = [
@@ -205,6 +208,75 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Attari Collection",
+    description:
+      "Attari Collection is a modern web application designed for managing and displaying products with an elegant user experience. Built using Next.js, MongoDB, shadcn UI components, and Cloudinary, the app allows administrators to manage products and orders easily, while offering users a dynamic shopping experience.",
+    tags: [
+      {
+        name: "Mern Stack ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MangoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Node js",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: attariCollection,
+    source_code_link: "https://github.com/Shoaib0320/Attari-Collection",
+  },
+  {
+    name: "Nasir Collection",
+    description:
+      "Features: User Authentication: Secure login and registration process. Product Management: View and manage a variety of products. Shopping Cart: Add, remove, and update products in the cart. Responsive Design: Optimized for various screen sizes. Modern UI: Utilizes the latest web technologies for a seamless user experience.",
+    tags: [
+      {
+        name: "React js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: nasirCollection,
+    source_code_link: "https://github.com/Shoaib0320/Nasir-Collection",
+  },
+
+  {
+    name: "Click Shop Store",
+    description:
+    "Click Shop Store is a modern e-commerce platform designed to provide users with a seamless shopping experience. Built using React.js, Firebase, and Ant Design, the app allows administrators to manage products and orders easily, while offering users a dynamic shopping experience.",
+    tags: [
+      {
+        name: "React js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Ant Design",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: clickShopStore,
+    source_code_link: "https://github.com/Shoaib0320/Foodiez-Food-Delivery-App",
+  },
+
+  {
     name: "Foodeiz (Food Delivery)",
     description:
       "Key Features of Foodiez Food Delivery App User-Friendly Design: Intuitive interface for easy navigation. Secure Authentication: User and restaurant login via Firebase. Restaurant Browsing: Explore restaurants and their menus. Add to Cart: Simple cart management and checkout. Order Tracking: Track order status in real-time.",
@@ -225,7 +297,6 @@ const projects = [
     image: foodeiz,
     source_code_link: "https://github.com/Shoaib0320/Foodiez-Food-Delivery-App",
   },
-
   {
     name: "Food Wala",
     description:

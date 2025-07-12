@@ -146,6 +146,11 @@ const Contact = () => {
               <img src={phone} height="20px" width="30px"></img>
               <a href="tel:0092-300-36-69272">0092-320-813-8038</a>
             </div>
+            <div className="container flex items-center	space-x-3 space-y-3">
+              {" "}
+              <img src={phone} height="20px" width="30px"></img>
+              <a href="tel:0092-300-36-69272">0092-370-227-6145</a>
+            </div>
           </table>
           <div className="container bhai space-x-12 flex justify-center	">
             <a href="https://github.com/shoaib0320" target="_blank">

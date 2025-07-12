@@ -33,6 +33,9 @@ import tripguide from "./tripguide.png";
 import foodeiz from "./foodeiz.png";
 import foodwala from "./foodwala.png";
 import ecommerceWebsiteStore from "./e-commerce-website-store.png"
+import attariCollection from "./attariCollection.png"
+import clickShopStore from "./clickShopStore.png"
+import nasirCollection from "./nasirCollection.png"
 
 export {
   logo,
@@ -66,4 +69,7 @@ export {
   foodeiz,
   foodwala,
   ecommerceWebsiteStore,
+  attariCollection,
+  clickShopStore,
+  nasirCollection,
 };
